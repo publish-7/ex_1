@@ -12,7 +12,7 @@ This project is a web application dashboard that analyzes car advertisement data
 
 ## How to Run Locally
 1. Clone this repository
-2. Install required packages: `pip install streamlit pandas plotly`
+2. Install required packages: `pip install streamlit pandas plotly.express altair`
 3. Run the application: `streamlit run app.py`
 4. Open your browser to the local URL provided
 
