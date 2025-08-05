@@ -8,6 +8,7 @@ This project is a web application dashboard that analyzes car advertisement data
 - **Streamlit** - For creating the web application interface
 - **Pandas** - For data manipulation and analysis  
 - **Plotly Express** - For creating interactive visualizations
+- **Altair** - For creating interactive charts and graphs from data
 
 ## How to Run Locally
 1. Clone this repository
